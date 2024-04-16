@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "linked_lis",
+            "request": "launch",
+            "mainClass": "linked_lis",
+            "projectName": "myjava1_e67f1fcd"
+        },
+        {
+            "type": "java",
+            "name": "Bond",
+            "request": "launch",
+            "mainClass": "java.Bond",
+            "projectName": "myjava1_e67f1fcd"
+        },
+        {
+            "type": "java",
+            "name": "test5",
+            "request": "launch",
+            "mainClass": "test5",
+            "projectName": "myjava1_e67f1fcd"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "test1",
+            "request": "launch",
+            "mainClass": "test1",
+            "projectName": "myjava1_e67f1fcd"
+        }
+    ]
+}
